@@ -1,7 +1,7 @@
 <param ve-config 
        title="Red-eared Sliders in Singapore"
        author="Dünya Gürses"
-       banner="https://github.com/dgurses/red_eared_slider/blob/main/pictures/30238683647_970f910276_o.jpg?raw=true"
+       banner="https://raw.githubusercontent.com/dgurses/red_eared_slider/main/pictures/new_turtle.png"
        layout="vertical">
        
 The red-eared slider is one of the most popular pets around the world and a notoriously invasive turtle species. Red-eared sliders are medium-sized turtles originating from the region extending from the Mississippi River Basin of North America to the Gulf of Mexico. They live in warm climates and have a lifespan of 20-40 years. The red-eared sliders are “distinguished by the red or yellow stripe behind [their] eyes” and “continue to grow throughout their lives, to about 30 cm in length”.[^1] Their bright green shells also darken as they age and grow bigger. They are omnivorous animals but “young terrapins prefer meat (insects, guppies, tadpoles), while older terrapins prefer vegetables (aquatic plants)”.[^2] Although they live in aquatic habitats, they breathe air and hence need shallow resting spaces. 
