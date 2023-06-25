@@ -40,18 +40,18 @@ Being cute and cheap certainly has its drawbacks for the red-eared slider. Peopl
 
 With the red-eared sliders, this presents an even more pressing issue as they are an invasive species. Their “omnivorous diet and ability to survive in a wide range of freshwater habitats make them a significant threat to [Singapore’s] native aquatic biodiversity”. They have adapted well to tropical climates and populate more rapidly than native turtle species such as the Malayan Box Turtle. A female red-eared slider “can produce up to a dozen eggs twice a year, and out-breeds the Malayan box turtle, for example, which puts out only two eggs each time”. However, it is unclear whether the high population of sliders in Singapore reservoirs and ponds is actually due to their breeding in nature or their continuous releases. In fact, “there appears to be little evidence that this species has successfully bred in the wild in Singapore: egg-laying behavior has been witnessed, but hatchlings are rarely seen” and “it may be the case that eggs and hatchlings fall prey to predators, such as the Malayan Water Monitor”. A preliminary, semi-quantitative survey conducted in 2004 at 29 localities around Singapore found that “slider densities were highest in areas with relatively high human activity” and “in general low to very low numbers were found in inaccessible areas, despite some areas having relatively large water bodies”. These results and “the continued high import densities and abundances strongly suggest that the release of this species is a dominant factor”.
 <param ve-image 
-       url="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/20150000007/img0078.jpg"
-       title="Farm with guava trees, banana plants, and chicken house at 11A Chua Chu Kang Road" 
-       description="Photo taken in 1985"
-       attribution="National Archives of Singapore"
+       url="https://www.riverviewparkandzoo.ca/en/zoo/resources/playground-photos/Animal-Profile-Pictures/Reptiles/malayan-box-turtle.jpg"
+       title="Malayan box turtle" 
+       description="Accessed through riverviewparkandzoo.ca"
+       attribution="Riverview Park & Zoo"
        license="CC BY-NC">
 
 Regardless of the reason for the slider population boom, it is clear that they have been rapidly pushing out local species such as the spiny turtle and the Malayan Box turtle which is a big concern for conservationists. The red-eared sliders compete with “native species for food, nesting spots and other essential resources”. One of the best ways to fight against the colonization of reservoirs and the replacement of native species is to encourage responsible buying and pet ownership because “even as they are getting dumped, sliders are easily one of the fastest-selling items at pet shops”. This is not only a threat to the local ecosystem but to the species themselves as “animals released into a strange environment become stressed and may die eventually” according to Mr. Wong Tuan Wah, director of conservation at NParks.
 <param ve-image 
-       url="https://raw.githubusercontent.com/dgurses/guava/main/pictures/poem2.png"
-       title="Excerpt from ‘Malacca Song’ by Chin Woon Ping" 
-       description="1992"
-       attribution="The Straits Times">
+       url="https://raw.githubusercontent.com/dgurses/red_eared_slider/main/pictures/turtle-7473927_1280.jpg"
+       title="Red-eared slider in the wild" 
+       description="Accessed through pixabay.com"
+       attribution="T_Kohei_">
 
 ## Threats to turtle biodiversity
 
