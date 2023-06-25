@@ -1,5 +1,5 @@
 <param ve-config 
-       title="Red-Eared Sliders in Singapore"
+       title="Red-eared Sliders in Singapore"
        author="Dünya Gürses"
        banner="https://raw.githubusercontent.com/dgurses/guava/main/pictures/guava2.png"
        layout="vertical">
@@ -15,10 +15,10 @@ The red-eared slider is one of the most popular pets around the world and a noto
 
 The red-eared slider has been traded extensively both as a pet and a food item for many decades. It is “a widely introduced species that can be found in a range of aquatic habitats throughout Southeast Asia, such as temple ponds, ornamental lakes, and reservoirs”.[^3] It was likely introduced to Singapore in the 1960s or 1970s as part of the aquarium trade from America and has become the most common resident turtle in ponds and lakes since. Their popularity as pets can be attributed to their cuteness as babies and their low price points. A baby red-eared slider costs $3-$5 at most pet shops, making them very accessible starter pets. Mr. Randy Clayton, the owner of Pet Shop Boys Aquarium at Far East Plaza, said in 2002: “Children love them. In a week, I can sell about seven to eight sliders, and I consider that slow business,” and added, “Back in my old shop at Loyang, which was near a school, the going rate was 20 to 30 a week”.[^4] Their popularity only seems to have risen over the years as evidenced by the increase in imports: “The imported number of red-eared sliders increased to 1,253,091 individuals in 2007 from 301,245 individuals in 2001”.[^5] Another critical factor is that “the only two reptiles allowed as pets [in Singapore] are the red-eared slider turtle and the Malayan box turtle” and the Malayan box turtle costs around $150 making it much less attractive for customers looking for cheap fuss-free pets.[^6]
 <param ve-image 
-       url="https://www.roots.gov.sg/CollectionImages/1083699.jpg"
-       title="Guava Drawing" 
-       description="William Farquhar Collection of Natural History Drawings"
-       attribution="Collection of the National Museum of Singapore, National Heritage Board. Gift of Mr. G. K. Goh">
+       url="https://www.turtleholic.com/wp-content/uploads/2021/05/image-7.png"
+       title="Baby Red-eared Sliders" 
+       description="Accessed through turtleholic.com"
+       attribution="TurtleHolic">
 
 Although the red-eared slider and the Malayan box turtle are the only reptile species that can be legally sold as pets in Singapore, the illegal wildlife trade in turtles persists and is still quite rampant. A 2004 survey of 27 pet shops conducted by Ter Yang Goh and Ruth M. O’Riordan found the red-eared slider to be the most common species for sale but encountered 11 other species of which “the import of one species (the Chinese softshell turtle Pelodiscus sinensis) is allowed for food but import of the other 10 species is not permitted for either food or the pet trade”.[^7] The Chinese softshell turtle, which is “the main turtle species eaten in Singapore, popularly in the form of soup” was found to be sold as a pet in 11% of the surveyed shops.[^8] The Chinese softshell turtle is thought to have entered water bodies in Singapore through the food trade and the illegal pet trade. Another specimen believed to have entered water bodies through the illegal pet trade is the pig-nose turtle, which was “the most commonly found protected turtle species for sale” according to the survey.[^9] The photo on the right shows a large turtle surrounded by medium to large-sized red-eared sliders, spotted in a canal in the residential area of Tiong Bahru. It is most likely a Chinese softshell turtle but could also potentially be a pig-nose turtle. As seen in this example, Singapore waterways are taken over by non-native species introduced through the pet trade. 
 <param ve-image 
@@ -32,7 +32,7 @@ Although the red-eared slider and the Malayan box turtle are the only reptile sp
 Being cute and cheap certainly has its drawbacks for the red-eared slider. People usually buy them for their kids without doing proper research and are unaware that “each can grow to 30 cm and live up to 30 years - possibly outgrowing tanks and attention spans”.[^10] This results in many people abandoning their turtles when they get too big and lose their bright colors. Red-eared sliders are also a popular choice for mercy releases on Vesak Day which increases their population in the wild. The “belief that freeing captive animals on Vesak Day brings good karma is still held in some quarters, despite the pleas of the authorities and animal rights groups”.[^11] Although many “Buddhists set captive animals free on Vesak Day as a compassionate gesture [...] some nature lovers are concerned that such acts can harm the environment”.[^12] As Mr. Henry Baey, who heads the Buddhist Fellowship, said in 2011: “Many such animals, especially those bred in captivity or imported, are known to be unable to adapt to the new surroundings and do not survive long after their release. They will also upset the existing ecosystem and may harm the native wildlife. It is therefore not necessarily a kind act”.[^13] There have been initiatives in 2004 to educate the public through exhibitions and direct interventions and a fine of up to $10,000 for releasing animals into reservoirs and ponds. Still, these measures seem to not have been entirely successful in preventing citizens from releasing animals both on Vesak Day and in general.
 <param ve-image 
        url="https://static.independent.co.uk/2021/05/13/09/SEI78640290.jpg?quality=75&width=990&crop=4%3A3%2Csmart&auto=webp"
-       title="Red-Eared Sliders released on Vesak Day with the Chinese characters 'mercy release' written on their shells" 
+       title="Red-eared Sliders released on Vesak Day with the Chinese characters 'mercy release' written on their shells" 
        description="Accessed through the Independent (https://www.independent.co.uk/asia/east-asia/hong-kong-turtles-mercy-release-b1846808.html)"
        attribution="REUTERS">
 
