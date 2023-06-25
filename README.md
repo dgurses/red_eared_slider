@@ -51,7 +51,7 @@ Regardless of the reason for the slider population boom, it is clear that they h
        url="https://raw.githubusercontent.com/dgurses/red_eared_slider/main/pictures/turtle-7473927_1280.jpg"
        title="Red-eared slider in the wild" 
        description="Accessed through pixabay.com"
-       attribution="T_Kohei_">
+       attribution="T_Kohei">
 
 ## Threats to turtle biodiversity
 
