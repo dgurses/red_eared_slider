@@ -22,10 +22,10 @@ The red-eared slider has been traded extensively both as a pet and a food item f
 
 Although the red-eared slider and the Malayan box turtle are the only reptile species that can be legally sold as pets in Singapore, the illegal wildlife trade in turtles persists and is still quite rampant. A 2004 survey of 27 pet shops conducted by Ter Yang Goh and Ruth M. O’Riordan found the red-eared slider to be the most common species for sale but encountered 11 other species of which “the import of one species (the Chinese softshell turtle Pelodiscus sinensis) is allowed for food but import of the other 10 species is not permitted for either food or the pet trade”.[^7] The Chinese softshell turtle, which is “the main turtle species eaten in Singapore, popularly in the form of soup” was found to be sold as a pet in 11% of the surveyed shops.[^8] The Chinese softshell turtle is thought to have entered water bodies in Singapore through the food trade and the illegal pet trade. Another specimen believed to have entered water bodies through the illegal pet trade is the pig-nose turtle, which was “the most commonly found protected turtle species for sale” according to the survey.[^9] The photo on the right shows a large turtle surrounded by medium to large-sized red-eared sliders, spotted in a canal in the residential area of Tiong Bahru. It is most likely a Chinese softshell turtle but could also potentially be a pig-nose turtle. As seen in this example, Singapore waterways are taken over by non-native species introduced through the pet trade. 
 <param ve-image 
-       url="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/19980007350-8262-3202-1113/img0086.jpg"
-       title="Guava fruit" 
-       description="Photo taken in 1989"
-       attribution="National Archives of Singapore">
+       url="https://raw.githubusercontent.com/dgurses/red_eared_slider/main/pictures/IMG_0882.jpg"
+       title="Large turtle spotted in Tiong Bahru canal" 
+       description="Likely a Chinese softshell turtle"
+       attribution="Photo by author">
 
 ## Release of turtles into the wild
 
