@@ -57,11 +57,10 @@ Regardless of the reason for the slider population boom, it is clear that they h
 
 Singapore’s native turtle species include the Malayan box terrapin, Asian leaf terrapin, Malayan forest softshell turtle, spiny terrapin and Malayan flatshell terrapin. However many turtle species like the red-eared slider and Chinese softshell turtle have become permanent residents through the wildlife trade. According to the founder of conservation group Marine Stewards, Ms Sue Ye, turtle populations in Singapore face multiple threats, such as “plastic ingestion, being struck by boat propellers while coming up for air, and overall loss of habitats and nesting sites”. Many aquatic animals like turtles “die from ingesting trash tossed into water bodies by thoughtless people”; “turtles that feed on jellyfish often mistake plastic bags as food and swallow them, only to be choked and killed”. With the prominent threats of habitat loss due to rapid urbanisation, pollution, and invasive species, Singapore’s turtle biodiversity and larger aquatic ecosystems could be at risk of collapse. Professor Peter Ng from the Raffles Museum of Biodiversity Research stated that, “the collapse of such ecosystems in streams and reservoirs [in Singapore], or even in Malaysia, which supplies almost half of Singapore’s water, could also have severe implications on the quality of drinking water” and asked, “How would you feel if our reservoirs kept having dead turtles and fish floating around?’” Considering that “tortoises and freshwater turtles are among the world's most threatened groups of animals”, it is important that we all do our part to conserve ecosystems by not participating in the illegal wildlife trade, uninformed pet ownership or pollution.
 <param ve-image 
-       url="https://i0.wp.com/www.angsarap.net/wp-content/uploads/2019/05/Sinigang-sa-Bayabas-Wide.jpg?w=1080&ssl=1"
-       title="Sinigang no Bayabas" 
-       description="Pork in Guava Soup'"
-       attribution="Ang Sarap"
-       license="CC BY-NC">
+       url="https://raw.githubusercontent.com/dgurses/red_eared_slider/main/pictures/IMG_0884.jpg"
+       title="Red-eared sliders in Tiong Bahru canal" 
+       description="Red-eared sliders in Singapore"
+       attribution="Photo by author">
 
 # References
 
